@@ -1,0 +1,107 @@
+v#EXTM3U
+#EXTINF:-1,TV5 HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1,ANC 
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,Cartoon Network Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1,Cinema One (1080p)
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1,MYX Philippines (720p)
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1,RAKUTEN TV FAMILY
+https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1,SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1,CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,TeleRadyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="TELERADYO SERBISYO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/TeleRadyo_Serbisyo_logo.svg" group-title="RADYO",TELERADYO SERBISYO
+https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" group-title="MOVIES",Cinema One (1080p)
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="DZRHNewsTV.ph"  tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="NEWS",DZRH News TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1 tvg-id="MyxPhilippines.ph"  tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="MUSIC",MYX Philippines (720p)
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-id="DZBBDT1.ph"  tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="NEWS",Super Radyo DZBB (720p) [Not 24/7]
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV 5"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/TV5_HD_Logo_2023.svg/2560px-TV5_HD_Logo_2023.svg.png" group-title="GENERAL;NEWS', TV 5 (720p / 1080p) 
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png" group-title="Business github", CNBC TV18 (720p) [Not] [24/7] alliptvlinks.com
+https://ythls.armelin.one/channel/UCmRbHAgG2k2vDUvb3xsEunQ.m3u8?checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 tvg-country="PH" tvg-logo="https://i.imgur.com/pbHuUuV.png" group-title="Music github", MYX Philippines (720p) alliptvlinks.com
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8?checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="United States github", Paramount+ Picks alliptvlinks.com
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=86df5336-6268-4928-9b7d-3af618ca807b&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="ASIA | PHILIPPINES", PH CARTOON NETWORK FHD alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176695&extension=ts&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="ASIA | PHILIPPINES", PH CBSN alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176718&extension=ts&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="ASIA | PHILIPPINES", PH CCTN alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176637&extension=ts&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="ASIA | PHILIPPINES", PH CNA alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176719&extension=ts&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="ASIA | PHILIPPINES", PH DISCOVERY CHANNEL alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176683&extension=ts&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="PHILIPPINES", PH GMA Pinoy TV (X) Backup NO_10 alliptvlinks.com
+http://tvmate.icu:8080/nCqH8t/631017/101826?checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="PHILIPPINES", PH GMA Pinoy TV X Backup NO_7 alliptvlinks.com
+http://fortv.cc:8080/6SHyY6/595088/101826?checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="ASIA | PHILIPPINES", PH LIFE TV alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=173872&extension=ts&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="PHILIPPINES", PH One News HD (C) Backup NO_10 alliptvlinks.com
+http://tvmate.icu:8080/nCqH8t/631017/101774?checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1, PH One News HD C Backup NO_1 alliptvlinks.com
+http://cord-cutter.net:8080/Danaunk1/ksGH6Tg3pY/101774?checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1, PH SARI C Backup NO_7 alliptvlinks.com
+http://cord-cutter.net:8080/Rme2Fg/183926/101824?checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="ASIA | PHILIPPINES", PH SUPER RADYO DZBB alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176636&extension=ts&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="ASIA | PHILIPPINES", PH TENNIS CHANNEL alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=176713&extension=ts&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1, PH TFC X alliptvlinks.com
+http://cord-cutter.net:8080/X5xRz0/944877/101823?checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="Tagalog github", TV5 (1080p) [Not] [24/7] alliptvlinks.com
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8?checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="US | SPORT", USA | NBA Backup NO_1 alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=191875&extension=ts&checkedby:alliptvlinks.com
+#EXTM3U
+#EXTINF:-1 group-title="US | SPORT", USA NBA alliptvlinks.com
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:C7:A2:74&stream=191875&extension=ts&checkedby:alliptvlinks.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
